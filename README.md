@@ -7,7 +7,7 @@ During this analysis we are going to explore bikes data for the city of New York
 
 ## Results
 - our bikes are mainly in Manhattan as the start station map below shows
- ![map](https://github.com/elzmanzi/Bikesharing/blob/main/images/map_manhattan.PNG)
+  ![map](https://github.com/elzmanzi/Bikesharing/blob/main/images/map_manhattan.PNG)
 - Male gender are mostly to use our services as show on below graph
   ![gender](https://github.com/elzmanzi/Bikesharing/blob/main/images/gender.PNG)
 - during the analysis, the trip duration is almost 20 min, and the busies hours are between 5-7PM,
